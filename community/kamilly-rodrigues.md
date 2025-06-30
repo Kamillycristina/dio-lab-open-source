@@ -35,3 +35,5 @@ Seja bem-vindo(a) ao meu perfil na comunidade open source da Digital Innovation 
 ---
 
 ✨ Obrigada por visitar meu perfil e fazer parte dessa jornada com a comunidade open source!
+
+---
